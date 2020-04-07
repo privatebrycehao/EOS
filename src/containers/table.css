@@ -1,0 +1,9 @@
+.block-tables{
+    width: 1070px !important;
+    font-size: medium;
+    color: black;
+}
+.block-tables-extend{
+    height: 200px;
+    overflow: scroll;
+}
